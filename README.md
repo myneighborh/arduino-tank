@@ -9,3 +9,4 @@ Arduino-based Yahboom G1 Tank-UNO with RC control, ultrasonic obstacle avoidance
 <img src="https://github.com/user-attachments/assets/874cdbaf-0e40-4fbc-9398-e8946f376dfb" width="800" />
 
 ![ultrasonic_led](https://github.com/user-attachments/assets/63d14778-2802-4e22-ae9f-0fe5374960c4)
+![ultrasonic_stop2](https://github.com/user-attachments/assets/836ba810-ac70-4060-ba24-a19fc6b0b45e)
